@@ -95,10 +95,10 @@
 	       <sms_center_number_android>chatmessagesettings</sms_center_number_android>
 	    </sms>
         <pb>phonebook</pb>
-        <update>
+        <!--<update>
             <update_online>update</update_online>
             <update_local>update_local</update_local>
-        </update>
+        </update>-->
 	    <sharing>
 	    	<sdcardsharing>sdcardsharing</sdcardsharing>
 	    	<sambasettings>sambasettings</sambasettings>
@@ -107,17 +107,17 @@
 	    </sharing>
         <ussd>
             <prepaid>
-                <pre_service_title>activate_internet_service</pre_service_title>
+                <!--<pre_service_title>activate_internet_service</pre_service_title>
                 <pre_fun_balanceInquiry>balanceInquiry</pre_fun_balanceInquiry>
-                <pre_fun_charge>charge</pre_fun_charge>
+                <pre_fun_charge>charge</pre_fun_charge>-->
                 <pre_fun_general>general</pre_fun_general>
             </prepaid>
-            <postpaid>
+            <!--<postpaid>
                 <post_service_title>activate_internet_service</post_service_title>
                 <post_fun_balanceInquiry>balanceInquiry</post_fun_balanceInquiry>
                 <post_fun_charge>charge</post_fun_charge>
                 <post_fun_general>general</post_fun_general>
-            </postpaid>
+            </postpaid>-->
         </ussd>
 	    <!--<dlna>dlna</dlna>-->
 	    <settings>

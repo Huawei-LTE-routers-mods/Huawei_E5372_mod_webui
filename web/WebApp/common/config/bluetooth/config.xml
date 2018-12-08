@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <config>
-    <enable>1</enable>
+    <enable>0</enable>
     <btswitch>1</btswitch>
     <devicename></devicename>
     <macaddress></macaddress>

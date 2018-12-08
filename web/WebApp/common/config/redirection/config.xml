@@ -7,8 +7,8 @@
 		<pin>1</pin>
 		<puk>1</puk>
 		<roam>0</roam>
-		<nosrv>1</nosrv>
-		<disconn>1</disconn>
+		<nosrv>0</nosrv>
+		<disconn>0</disconn>
 	</condition>
 	<portal>
 		<forceredir>0</forceredir>

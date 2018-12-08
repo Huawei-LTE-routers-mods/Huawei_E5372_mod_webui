@@ -20,7 +20,7 @@
     	<time>60</time>
     </poweroff>
     <fastboot>
-    	<fastbootswitch>0</fastbootswitch>
+    	<fastbootswitch>1</fastbootswitch>
     	<autoshutdown>720</autoshutdown>
     </fastboot>
 	<cpeinfo>
@@ -31,7 +31,7 @@
     <poweroff_enabled>1</poweroff_enabled>
     <maxsignal>5</maxsignal>
     <ecomode_enable>1</ecomode_enable>
-    <encrypt_enabled>1</encrypt_enabled>
+    <encrypt_enabled>0</encrypt_enabled>
     <ecomode>
     	<ecomodeswitch>1</ecomodeswitch>
     	<ecomodetype>1</ecomodetype>

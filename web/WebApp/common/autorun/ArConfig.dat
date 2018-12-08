@@ -1,0 +1,57 @@
+
+
+[INSTALL]
+app_install_path=MobileBrServ 
+setup_name=mbbServiceSetup.exe 
+runservice_name=mbbservice.exe
+service_name=Mobile Broadband HL Service
+service_desc=Mobile Broadband HL Service
+service_descDetail=Provide service for mobile broadband device.
+
+       
+[PRODUCT_VERSION]
+value=22.001.07.00.03 
+ 
+[PRODUCT_ID]
+pid=14db,1f01;14dc,1f01
+
+[APP_PATH]
+path=/Library/StartupItems/MobileBrServ
+
+[VOLUMES]
+name=HiLink
+proname=mbbservice
+disable_cdrom=false
+
+[SYSTEM]
+fileversion=1
+vrversion=22
+vversion=200
+rversion=002
+buildversion=001
+debugversion=7
+spversion=00
+customizeversion=03
+
+[REGEDIT]
+GlobalMaxTcpWindowSize=0x00020000   
+TcpWindowSize=0x00020000   
+Tcp1323Opts=0x00000001
+DefaultSendWindow=0x00020000
+DefaultReceiveWindow=0x00020000
+Publisher=Huawei Technologies Co.,Ltd
+HelpLink=http://mobile.huawei.com
+URLInfoAbout=http://www.huawei.com
+DisplayName=Mobile Broadband HL Service
+
+
+
+[OPENBR_TIME]
+wait_time=1
+
+[OPEN_URL]
+url=
+
+[PROMPT]
+value=1
+language=English

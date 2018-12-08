@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <!-- PLMN -->
+    <plmn>
+        <enable>1</enable>
+        <sx>0</sx>
+        <sy>85</sy>
+        <height>20</height>
+        <width>128</width>        
+        <priority>0</priority>
+    </plmn>
+
+    <!-- apn -->
+    <apn>
+        <enable>0</enable>
+        <sx>0</sx>
+        <sy>85</sy>
+        <height>20</height>
+        <width>128</width>        
+        <priority>0</priority>
+    </apn>
+	
+    <!-- flux -->
+    <flux>
+        <enable>1</enable>
+        <sx>0</sx>
+        <sy>112</sy>
+        <height>16</height>
+        <width>128</width>
+        <priority>0</priority>
+        <font>2</font>
+        <format>4</format>
+    </flux>
+
+    <!-- wifi-security_type -->
+    <wifi_security>
+        <enable>0</enable>
+        <sx>18</sx>
+        <sy>102</sy>
+        <height>16</height>
+        <width>92</width>        
+        <priority>1</priority>
+        <font>2</font>
+        <format>4</format>
+    </wifi_security>
+	
+    <!-- wifi-ssid -->
+    <ssid>
+        <enable>1</enable>
+        <sx>39</sx>
+        <sy>67</sy>
+        <height>25</height>
+        <width>89</width>        
+        <priority>15</priority>
+        <cbtime>30000</cbtime>
+        <font>2</font>
+        <format>8</format>
+        <frequency>1000</frequency>
+    </ssid>
+	
+    <!-- wifi-key -->
+    <key>
+        <enable>1</enable>
+        <sx>39</sx>
+        <sy>92</sy>
+        <height>31</height>
+        <width>89</width>        
+        <priority>15</priority>
+        <cbtime>30000</cbtime>
+        <font>2</font>
+        <format>8</format>
+        <frequency>1000</frequency>
+    </key>
+
+    <ssid_cap>
+        <enable>1</enable>
+        <sx>1</sx>
+        <sy>67</sy>
+        <height>25</height>
+        <width>37</width>        
+        <font>2</font>
+        <format>72</format>
+        <priority>15</priority>
+        <frequency>1000</frequency>
+    </ssid_cap>	
+	
+    <key_cap>
+        <enable>1</enable>
+        <sx>1</sx>
+        <sy>92</sy>
+        <height>31</height>
+        <width>37</width>        
+        <font>2</font>
+        <format>72</format>
+        <priority>15</priority>
+        <frequency>1000</frequency>
+    </key_cap>	
+    
+    <!-- offload_ssid -->
+    <offload_ssid>
+        <enable>1</enable>
+        <sx>0</sx>
+        <sy>85</sy>
+        <height>20</height>
+        <width>128</width>
+        <priority>3</priority>
+        <font>2</font>
+        <format>12</format>
+        <frequency>1000</frequency>
+    </offload_ssid>
+    <!-- downloading -->
+    <downloading>
+        <enable>1</enable>
+        <sx>0</sx>
+        <sy>58</sy>
+        <height>32</height>
+        <width>128</width>        
+        <priority>13</priority>
+        <font>0</font>
+	<format>140</format>
+	<frequency>1000</frequency>
+    </downloading>
+   
+    <!-- download_progress -->
+    <download_progress>
+        <enable>1</enable>
+        <sx>0</sx>
+        <sy>100</sy>
+        <height>20</height>
+        <width>128</width>
+        <priority>13</priority>
+        <font>2</font>
+	<format>140</format>
+    </download_progress>
+		
+    <!-- update -->
+    <update>
+        <enable>1</enable>
+        <sx>0</sx>
+        <sy>58</sy>
+        <height>64</height>
+        <width>128</width>        
+        <priority>13</priority>
+        <cbtime>3000</cbtime>
+        <font>0</font>
+	<format>140</format>
+	<frequency>500</frequency>
+    </update>
+		
+    <!-- roaming -->
+    <roaming>
+        <enable>1</enable>
+        <sx>0</sx>
+        <sy>85</sy>
+        <height>20</height>
+        <width>128</width>
+        <priority>2</priority>
+        <font>2</font>
+        <format>12</format>
+        <frequency>500</frequency>
+    </roaming>
+    
+    <!-- ID_DYNAMIC_DO_MAIN -->
+    <infomation>
+        <enable>1</enable>
+        <sx>0</sx>
+        <sy>87</sy>
+        <height>40</height>
+        <width>128</width>
+        <priority>15</priority>
+        <font>2</font>
+        <format>148</format>
+        <cbtime>10000</cbtime>
+    </infomation>
+    <!-- wifi-ssid -->
+    <imei>
+        <enable>1</enable>
+        <sx>39</sx>
+        <sy>67</sy>
+        <height>25</height>
+        <width>89</width>        
+        <priority>15</priority>
+        <cbtime>10000</cbtime>
+        <font>2</font>
+        <format>8</format>
+        <frequency>1000</frequency>
+    </imei>
+	
+    <!-- wifi-key -->
+    <sn>
+        <enable>1</enable>
+        <sx>39</sx>
+        <sy>92</sy>
+        <height>31</height>
+        <width>89</width>        
+        <priority>15</priority>
+        <cbtime>10000</cbtime>
+        <font>2</font>
+        <format>8</format>
+        <frequency>1000</frequency>
+    </sn>
+</config>

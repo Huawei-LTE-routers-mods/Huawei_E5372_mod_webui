@@ -28,5 +28,5 @@
     <fastdorm_type>1</fastdorm_type>
     <!-- 快速休眠时间。取值范围[0,30]，单位秒-->
     <fastdorm_time>5</fastdorm_time>
-    <pdp_always_on>0</pdp_always_on>
+    <pdp_always_on>1</pdp_always_on>
 </config>

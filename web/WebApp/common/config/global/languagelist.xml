@@ -13,6 +13,37 @@
         <language>pt-br</language>
         <language>es-ar</language>
         <language>ar-sa</language>
+        <language>bg-bg</language>
+        <language>cs-cz</language>
+        <language>da-dk</language>
+        <language>el-gr</language>
+        <language>et-ee</language>
+        <language>fa-fa</language>
+        <language>fi-fi</language>
+        <language>he-il</language>
+        <language>hr-hr</language>
+        <language>hu-hu</language>
+        <language>id-id</language>
+        <language>ja-jp</language>
+        <language>ko-kr</language>
+        <language>lt-lt</language>
+        <language>lv-lv</language>
+        <language>mk-mk</language>
+        <language>mt-mt</language>
+        <language>nl-nl</language>
+        <language>no-no</language>
+        <language>pl-pl</language>
+        <language>ro-ro</language>
+        <language>sk-sk</language>
+        <language>sl-sl</language>
+        <language>sq-al</language>
+        <language>sr-cs</language>
+        <language>sv-se</language>
+        <language>tr-tr</language>
+        <language>uk-ua</language>
+        <language>vi-vn</language>
+        <language>zh-hk</language>
+        <language>zh-tw</language>
     </languages>
     <privacy_policy_url>
         <default_url>http://consumer.huawei.com/en/privacy-policy/index.htm</default_url>
